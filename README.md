@@ -59,3 +59,8 @@ Dash es una app Flask, así que se despliega en cualquier host que corra Python 
 ## Próximos pasos
 - Tercer dashboard con datos del MEF (ejecución presupuestal) o de otro dominio.
 - Filtro por trimestre/año en la pestaña del INEI cuando se sumen más trimestres.
+
+## Otros proyectos
+Parte de mi portafolio de análisis de datos: [github.com/asramirez-svg](https://github.com/asramirez-svg)
+
+**Autor:** Augusto Set Ramírez Ames — analista de datos, IBM Data Analyst Professional Certificate. [LinkedIn](https://linkedin.com/in/AugustoRamirezA)
