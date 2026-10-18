@@ -5,6 +5,8 @@ Dashboard en Dash con dos pestañas:
 1. **Tipo de cambio S/ vs US$** — datos oficiales del BCRP, consumidos en vivo desde su API REST pública.
 2. **Empleo por ciudad (INEI - EPEN)** — tasa de desempleo e ingreso promedio por ciudad, calculados a partir de microdatos oficiales de la Encuesta Permanente de Empleo Nacional.
 
+![Pestaña de tipo de cambio con datos del BCRP](img/01_tipo_cambio_bcrp.png)
+
 ## Cómo correrlo
 
 ```bash
